@@ -85,12 +85,6 @@ Brief description of functions contained in project:
 
 README.md: this.
 
-## General Flow Chart:
+## General Flow Chart
 
 <a href="https://ibb.co/1MMmc0J"><img src="https://i.ibb.co/5kkRZ1x/Untitled-Diagram.png" alt="Untitled-Diagram" border="0"></a>
-
-### Contact Info:
-
-Git: [Camilo Baquero](https://github.com/camilooob), [Sergio Pietri](https://github.com/Virteip)
-
-Twitter: [@camilooob](https://twitter.com/camilooob),  [@sergiopietri](https://twitter.com/sergiopietri)
